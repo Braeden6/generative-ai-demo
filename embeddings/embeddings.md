@@ -1,0 +1,1 @@
+Embeddings will be saved here as .pkl files. They are saved as LangChain FAISS objects.
