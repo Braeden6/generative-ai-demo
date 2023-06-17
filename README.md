@@ -11,6 +11,8 @@ Used Tools:
 7) Prompt Engineering: Technique for improving the quality of answers generated
 
 ## Guide using VSCode and Jupyter Notebook
+To start setup make sure to make your .env file. You can use the .env.example file as a template.
+You can get key from [OpenAI](https://platform.openai.com/account/api-keys), 15$ credit with new accounts but not access to GPT-4.
 ### Set up Virtual Environment
 [Link](https://code.visualstudio.com/docs/python/environments)
 1) Ctrl + Shift + P
