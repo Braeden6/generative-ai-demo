@@ -38,3 +38,5 @@ next-env.d.ts
 
 *.pdf
 *.pkl
+
+__pycache__/
